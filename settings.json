@@ -1,0 +1,51 @@
+{
+  "bot-account": {
+    "username": "",
+    "password": "",
+    "type": ""
+  },
+
+  "server": {
+    "ip": "",
+    "port": 25565,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "randomafk": {
+      "enabled": true
+  },
+
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 5000,
+
+    "messages": [
+        "ok."
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 10000
+  }
+}
